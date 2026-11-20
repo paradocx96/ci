@@ -1,0 +1,6 @@
+{
+  "name": "paradocx96 Terraform CI",
+  "description": "Secret scan + terraform fmt, validate, TFLint and an OIDC read-only plan using the paradocx96 reusable workflows.",
+  "categories": ["HCL", "Terraform"],
+  "filePatterns": [".*\\.tf$"]
+}
