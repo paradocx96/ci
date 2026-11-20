@@ -14,4 +14,4 @@
 ### Working with us
 
 Most of our repositories are private. To report a security issue, please follow our
-[security policy](https://github.com/paradocx96/.github/blob/main/SECURITY.md). GitHub issues are not a support channel.
+[security policy](https://github.com/paradocx96/ci/blob/main/SECURITY.md). GitHub issues are not a support channel.
